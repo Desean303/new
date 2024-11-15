@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int num;
+	char choice = 'a';
+	while (choice != 'f') {
+		cout << "here's some more turkey! " << endl;
+		cin >> choice;
+		cout << "you typed " << choice << endl;
+	}
+	
+
+}
